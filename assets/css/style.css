@@ -56,3 +56,10 @@ footer{
 	background-color:black;
 	color:white;
 }
+#submitButton{
+	margin: auto;
+	
+}
+#contactHeader{
+	margin-left: auto;
+}
