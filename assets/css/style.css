@@ -1,5 +1,5 @@
-.navbar{
-	opacity: 0.3;
+#firstJumbo{
+	margin: 100px 100px 10px 100px;
 }
 
 #logo{
@@ -21,5 +21,38 @@
 	padding-top:20px;
 }
 .jumbotron{
-	margin: 10px 100px 10px 100px;
+	
+	margin-right:100px;
+	margin-left:100px;
+	background-color:white;
+
+}
+#lifeHeader{
+	text-align:center;
+}
+
+#blankTshirt{
+	margin-right:300px;
+}
+
+.navTabs{
+	margin-top:30px;
+	color:white;
+}
+
+.jumboHeader, #captions, #captions2{
+	margin-left:40px;
+}
+
+/*All content needs a margin-right feature*/
+
+#footerList{
+	margin-left:150px;
+}
+#list4{
+	margin-top:100px;
+}
+footer{
+	background-color:black;
+	color:white;
 }
